@@ -186,6 +186,34 @@ def nombre(x) -> float:
         return 0.0
 
 
+def image_de(ld: dict) -> str | None:
+    """L'adresse de la photo du plat (sur le site d'origine : elle n'est pas copiée)."""
+    img = ld.get("image")
+    if isinstance(img, list):
+        img = img[-1] if img else None  # souvent du plus petit au plus grand format
+    if isinstance(img, dict):
+        img = img.get("url") or img.get("contentUrl")
+    img = str(img or "").strip()
+    return img if img.startswith("https://") else None
+
+
+def texte(x) -> str:
+    """Texte sans balises HTML ni espaces en trop."""
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html.unescape(str(x or "")))).strip()
+
+
+def resume(description) -> str | None:
+    """Les 2 premières phrases de la présentation du site (240 caractères au plus)."""
+    t = texte(description)
+    if len(t) < 20 or re.match(r"(?i)recette\b.*(not[ée]e|personnes)", t):
+        return None  # phrase toute faite (« Recette X : 4 personnes, notée 4,8/5… ») : pas utile
+    phrases = re.split(r"(?<=[.!?…])\s+", t)
+    r = " ".join(phrases[:2])
+    if len(r) > 240:
+        r = r[:237].rsplit(" ", 1)[0] + "…"
+    return r
+
+
 def fiche(url: str, source: dict, mois: int) -> dict | None:
     """Lit une page de recette et renvoie sa fiche (sans le texte de la recette), ou None si elle n'est pas de saison."""
     ld = recette_ld(lire(url))
@@ -218,6 +246,9 @@ def fiche(url: str, source: dict, mois: int) -> dict | None:
         "minutes": minutes(ld.get("totalTime")) or None,
         "categorie": str(categorie).strip() if categorie else None,
         "saison": sorted(trouves),
+        "image": image_de(ld),
+        "description": resume(ld.get("description")),
+        "ingredients": [re.sub(r"(?i)\bunit[ée]s?\s+", "", texte(i)) for i in ingredients if texte(i)][:25],
     }
 
 
