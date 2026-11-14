@@ -1,0 +1,51 @@
+# Chaque lundi matin, le robot choisit les recettes de la semaine.
+# VALIDATION = "oui" : il propose sa sélection (une « pull request ») et attend votre accord.
+# VALIDATION = "non" : il publie directement.
+name: Tendances de la semaine
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"   # lundi, 5 h UTC (6 h ou 7 h à Paris)
+  workflow_dispatch:      # bouton « Run workflow » pour le lancer à la main
+
+env:
+  VALIDATION: "oui"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  selection:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Choisir les recettes
+        run: python robot.py
+
+      - name: Proposer la sélection (validation)
+        if: env.VALIDATION == 'oui'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: selection-de-la-semaine
+          delete-branch: true
+          commit-message: "Tendances de la semaine"
+          title: "Tendances de la semaine à valider"
+          body: |
+            Le robot a choisi les recettes de la semaine (fichier `docs/tendances.json`).
+            Pour les publier : bouton vert **Merge pull request**, puis **Confirm merge**.
+            Pour les refuser : **Close pull request** (l'app garde la sélection précédente).
+
+      - name: Publier directement
+        if: env.VALIDATION != 'oui'
+        run: |
+          git config user.name "Robot Tendances"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "Tendances de la semaine"
+          git push

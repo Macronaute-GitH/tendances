@@ -1,0 +1,928 @@
+{
+ "produits": [
+  {
+   "nom": "Artichaut",
+   "mots": [
+    "artichaut"
+   ],
+   "mois": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Asperge",
+   "mots": [
+    "asperge"
+   ],
+   "mois": [
+    4,
+    5,
+    6
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Aubergine",
+   "mots": [
+    "aubergine"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Betterave",
+   "mots": [
+    "betterave"
+   ],
+   "mois": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Blette",
+   "mots": [
+    "blette",
+    "bette"
+   ],
+   "mois": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Brocoli",
+   "mots": [
+    "brocoli"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Céleri-rave",
+   "mots": [
+    "celeri rave"
+   ],
+   "mois": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Céleri",
+   "mots": [
+    "celeri",
+    "celeri branche"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Cèpe",
+   "mots": [
+    "cepe"
+   ],
+   "mois": [
+    9,
+    10,
+    11
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Girolle",
+   "mots": [
+    "girolle",
+    "chanterelle"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Chou",
+   "mots": [
+    "chou",
+    "chou vert",
+    "chou blanc",
+    "chou rouge",
+    "chou frise",
+    "chou pointu",
+    "chou chinois"
+   ],
+   "mois": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Chou-fleur",
+   "mots": [
+    "chou fleur"
+   ],
+   "mois": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Chou de Bruxelles",
+   "mots": [
+    "chou de bruxelle"
+   ],
+   "mois": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Chou kale",
+   "mots": [
+    "chou kale",
+    "kale"
+   ],
+   "mois": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Concombre",
+   "mots": [
+    "concombre"
+   ],
+   "mois": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Courge",
+   "mots": [
+    "courge",
+    "butternut",
+    "potiron",
+    "potimarron",
+    "citrouille",
+    "courge butternut",
+    "doubeurre"
+   ],
+   "mois": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Courgette",
+   "mots": [
+    "courgette"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Endive",
+   "mots": [
+    "endive",
+    "chicon"
+   ],
+   "mois": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Épinard",
+   "mots": [
+    "epinard",
+    "pousse d epinard"
+   ],
+   "mois": [
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Fenouil",
+   "mots": [
+    "fenouil"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Fève",
+   "mots": [
+    "feve"
+   ],
+   "mois": [
+    4,
+    5,
+    6
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Haricot vert",
+   "mots": [
+    "haricot vert",
+    "haricot beurre"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Laitue",
+   "mots": [
+    "laitue",
+    "batavia",
+    "feuille de chene",
+    "romaine",
+    "sucrine"
+   ],
+   "mois": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Mâche",
+   "mots": [
+    "mache"
+   ],
+   "mois": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Maïs",
+   "mots": [
+    "mai",
+    "epi de mai"
+   ],
+   "mois": [
+    8,
+    9
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Navet",
+   "mots": [
+    "navet"
+   ],
+   "mois": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Panais",
+   "mots": [
+    "panai"
+   ],
+   "mois": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Petit pois",
+   "mots": [
+    "petit poi"
+   ],
+   "mois": [
+    5,
+    6,
+    7
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Poireau",
+   "mots": [
+    "poireau"
+   ],
+   "mois": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Poivron",
+   "mots": [
+    "poivron"
+   ],
+   "mois": [
+    7,
+    8,
+    9,
+    10
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Radis",
+   "mots": [
+    "radi"
+   ],
+   "mois": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Roquette",
+   "mots": [
+    "roquette"
+   ],
+   "mois": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Rutabaga",
+   "mots": [
+    "rutabaga"
+   ],
+   "mois": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Salsifis",
+   "mots": [
+    "salsifi"
+   ],
+   "mois": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Tomate",
+   "mots": [
+    "tomate",
+    "tomate cerise",
+    "tomate grappe",
+    "coeur de boeuf"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Topinambour",
+   "mots": [
+    "topinambour"
+   ],
+   "mois": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "fruit": false
+  },
+  {
+   "nom": "Abricot",
+   "mots": [
+    "abricot"
+   ],
+   "mois": [
+    6,
+    7,
+    8
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Cassis",
+   "mots": [
+    "cassi"
+   ],
+   "mois": [
+    7
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Cerise",
+   "mots": [
+    "cerise",
+    "griotte"
+   ],
+   "mois": [
+    5,
+    6,
+    7
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Châtaigne",
+   "mots": [
+    "chataigne",
+    "marron"
+   ],
+   "mois": [
+    10,
+    11,
+    12
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Clémentine",
+   "mots": [
+    "clementine",
+    "mandarine"
+   ],
+   "mois": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Coing",
+   "mots": [
+    "coing"
+   ],
+   "mois": [
+    10,
+    11
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Figue",
+   "mots": [
+    "figue"
+   ],
+   "mois": [
+    8,
+    9,
+    10
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Fraise",
+   "mots": [
+    "fraise",
+    "fraise des boi"
+   ],
+   "mois": [
+    5,
+    6,
+    7
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Framboise",
+   "mots": [
+    "framboise"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Groseille",
+   "mots": [
+    "groseille"
+   ],
+   "mois": [
+    7,
+    8
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Kiwi",
+   "mots": [
+    "kiwi"
+   ],
+   "mois": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Melon",
+   "mots": [
+    "melon"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Mirabelle",
+   "mots": [
+    "mirabelle"
+   ],
+   "mois": [
+    8,
+    9
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Mûre",
+   "mots": [
+    "mure"
+   ],
+   "mois": [
+    8,
+    9
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Myrtille",
+   "mots": [
+    "myrtille"
+   ],
+   "mois": [
+    7,
+    8,
+    9
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Nectarine",
+   "mots": [
+    "nectarine",
+    "brugnon"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Orange",
+   "mots": [
+    "orange",
+    "orange sanguine"
+   ],
+   "mois": [
+    12,
+    1,
+    2,
+    3
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Pamplemousse",
+   "mots": [
+    "pamplemousse",
+    "pomelo"
+   ],
+   "mois": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Pastèque",
+   "mots": [
+    "pasteque"
+   ],
+   "mois": [
+    7,
+    8
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Pêche",
+   "mots": [
+    "peche"
+   ],
+   "mois": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Poire",
+   "mots": [
+    "poire"
+   ],
+   "mois": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    1
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Pomme",
+   "mots": [
+    "pomme"
+   ],
+   "mois": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Prune",
+   "mots": [
+    "prune",
+    "quetsche",
+    "reine claude"
+   ],
+   "mois": [
+    7,
+    8,
+    9
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Raisin",
+   "mots": [
+    "raisin"
+   ],
+   "mois": [
+    8,
+    9,
+    10
+   ],
+   "fruit": true
+  },
+  {
+   "nom": "Rhubarbe",
+   "mots": [
+    "rhubarbe"
+   ],
+   "mois": [
+    4,
+    5,
+    6
+   ],
+   "fruit": true
+  }
+ ],
+ "toute_annee": [
+  "pomme de terre",
+  "patate douce",
+  "oignon",
+  "oignon rouge",
+  "oignon nouveau",
+  "ail",
+  "gousse d ail",
+  "echalote",
+  "carotte",
+  "champignon",
+  "champignon de pari",
+  "citron",
+  "citron vert",
+  "gingembre",
+  "avocat",
+  "banane",
+  "ananas",
+  "mangue",
+  "noix de coco",
+  "lait de coco",
+  "creme de marron",
+  "puree de marron",
+  "pomme de terre nouvelle",
+  "haricot rouge",
+  "haricot blanc",
+  "poi chiche",
+  "lentille",
+  "eau de fleur d oranger",
+  "zeste d orange",
+  "fecule de mai",
+  "farine de mai",
+  "pate a chou",
+  "sel de celeri"
+ ],
+ "transformes": [
+  "conserve",
+  "boite",
+  "concentre",
+  "pelee",
+  "pele",
+  "seche",
+  "sec",
+  "coulis",
+  "surgele",
+  "surgelee",
+  "jus",
+  "confiture",
+  "compote",
+  "sirop",
+  "ketchup",
+  "poudre",
+  "confit",
+  "confite",
+  "liqueur",
+  "gelee",
+  "deshydrate",
+  "sauce"
+ ]
+}

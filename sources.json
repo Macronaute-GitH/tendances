@@ -1,0 +1,12 @@
+{
+  "_aide": "Sites lus par le robot. type « plan » = plan du site (liste de toutes les recettes), type « flux » = flux RSS (nouveautés d'un blog). « max » = nombre maximum de recettes de ce site dans la sélection.",
+  "sources": [
+    {"nom": "Marmiton", "type": "plan", "url": "https://www.marmiton.org/wsitemap_recipes_index.xml", "max": 8},
+    {"nom": "CuisineAZ", "type": "plan", "url": "https://www.cuisineaz.com/xml/sitemap.xml", "filtre": "recette", "max": 6},
+    {"nom": "Journal des Femmes Cuisine", "type": "plan", "url": "https://cuisine.journaldesfemmes.fr/sitemap/?code=cuisine_jdf_recipe&page=1", "max": 6},
+    {"nom": "Ptitchef", "type": "plan", "url": "https://www.ptitchef.com/upload_data/sitemaps/recipe-fr-1.xml", "max": 6},
+    {"nom": "Amour de cuisine", "type": "flux", "url": "https://www.amourdecuisine.fr/feed/", "blog": true, "max": 2},
+    {"nom": "Hervé Cuisine", "type": "flux", "url": "https://www.hervecuisine.com/feed/", "blog": true, "max": 2},
+    {"nom": "Jujube en cuisine", "type": "flux", "url": "https://www.jujube-en-cuisine.fr/feed/", "blog": true, "max": 2}
+  ]
+}

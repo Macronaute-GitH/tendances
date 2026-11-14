@@ -1,0 +1,402 @@
+{
+ "version": 1,
+ "date": "2026-11-14",
+ "mois": 11,
+ "recettes": [
+  {
+   "titre": "Gratin Patates / Chou-Fleur",
+   "url": "https://www.marmiton.org/recettes/recette_gratin-patates-chou-fleur_19155.aspx",
+   "site": "Marmiton",
+   "blog": false,
+   "note": 4.8,
+   "avis": 90,
+   "minutes": 45,
+   "categorie": "Accompagnement",
+   "saison": [
+    "Chou-fleur"
+   ]
+  },
+  {
+   "titre": "Navets caramelisés",
+   "url": "https://www.marmiton.org/recettes/recette_navets-caramelises_20708.aspx",
+   "site": "Marmiton",
+   "blog": false,
+   "note": 4.6,
+   "avis": 105,
+   "minutes": 20,
+   "categorie": "Accompagnement",
+   "saison": [
+    "Navet"
+   ]
+  },
+  {
+   "titre": "Brick épinard et viande hachée",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/332866-brick-epinard-et-viande-hachee",
+   "site": "Journal des Femmes Cuisine",
+   "blog": false,
+   "note": 4.4,
+   "avis": 69,
+   "minutes": 20,
+   "categorie": "Autre plat de bœuf",
+   "saison": [
+    "Épinard"
+   ]
+  },
+  {
+   "titre": "Compote pommes-coings",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/329322-compote-pommes-coings",
+   "site": "Journal des Femmes Cuisine",
+   "blog": false,
+   "note": 4.5,
+   "avis": 32,
+   "minutes": 10,
+   "categorie": "Compote multi-fruits",
+   "saison": [
+    "Coing",
+    "Pomme"
+   ]
+  },
+  {
+   "titre": "Coquilles Saint Jacques, crème d'endives au cidre",
+   "url": "https://www.cuisineaz.com/recettes/coquilles-saint-jacques-creme-d-endives-au-cidre-57327.aspx",
+   "site": "CuisineAZ",
+   "blog": false,
+   "note": 4.4,
+   "avis": 47,
+   "minutes": 40,
+   "categorie": "Saint Jacques",
+   "saison": [
+    "Endive"
+   ]
+  },
+  {
+   "titre": "Salade de céleri-rave aux pommes et noix",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/319077-salade-de-celeri-rave-aux-pommes-et-noix",
+   "site": "Journal des Femmes Cuisine",
+   "blog": false,
+   "note": 4.8,
+   "avis": 22,
+   "minutes": 20,
+   "categorie": "Salade sucrée-salée",
+   "saison": [
+    "Céleri-rave",
+    "Pomme"
+   ]
+  },
+  {
+   "titre": "Velouté de panais : la recette facile",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/339842-veloute-de-panais",
+   "site": "Journal des Femmes Cuisine",
+   "blog": false,
+   "note": 4.6,
+   "avis": 37,
+   "minutes": 10,
+   "categorie": "Potage et velouté originaux",
+   "saison": [
+    "Panais"
+   ]
+  },
+  {
+   "titre": "Gâteau aux pommes à l'ancienne, moelleux et fondant",
+   "url": "https://www.amourdecuisine.fr/article-gateau-aux-pommes-a-l-ancienne.html",
+   "site": "Amour de cuisine",
+   "blog": true,
+   "note": 5.0,
+   "avis": 3,
+   "minutes": 75,
+   "categorie": null,
+   "saison": [
+    "Pomme"
+   ]
+  },
+  {
+   "titre": "Purée aux rutabagas",
+   "url": "https://www.marmiton.org/recettes/recette_puree-aux-rutabagas_34849.aspx",
+   "site": "Marmiton",
+   "blog": false,
+   "note": 4.6,
+   "avis": 27,
+   "minutes": 55,
+   "categorie": "Accompagnement",
+   "saison": [
+    "Rutabaga"
+   ]
+  },
+  {
+   "titre": "Salade de chou à la japonaise croquante",
+   "url": "https://www.ptitchef.com/recettes/entree/salade-de-chou-a-la-japonaise-croquante-fid-1570395",
+   "site": "Ptitchef",
+   "blog": false,
+   "note": 4.0,
+   "avis": 45,
+   "minutes": 240,
+   "categorie": "Entrée",
+   "saison": [
+    "Chou"
+   ]
+  },
+  {
+   "titre": "Liqueur de coings",
+   "url": "https://www.ptitchef.com/recettes/boisson/liqueur-de-coings-fid-1163679",
+   "site": "Ptitchef",
+   "blog": false,
+   "note": 4.2,
+   "avis": 35,
+   "minutes": 10,
+   "categorie": "Boisson",
+   "saison": [
+    "Coing"
+   ]
+  },
+  {
+   "titre": "Poelée céleri rave et pommes",
+   "url": "https://www.marmiton.org/recettes/recette_poelee-celeri-rave-et-pommes_165219.aspx",
+   "site": "Marmiton",
+   "blog": false,
+   "note": 4.6,
+   "avis": 16,
+   "minutes": 35,
+   "categorie": "Accompagnement",
+   "saison": [
+    "Céleri-rave",
+    "Pomme"
+   ]
+  },
+  {
+   "titre": "Velouté de topinambours : la recette facile",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/339701-veloute-de-topinambours",
+   "site": "Journal des Femmes Cuisine",
+   "blog": false,
+   "note": 4.6,
+   "avis": 21,
+   "minutes": 20,
+   "categorie": "Potage et velouté originaux",
+   "saison": [
+    "Topinambour"
+   ]
+  },
+  {
+   "titre": "Gâteau à la mandarine et aux amandes",
+   "url": "https://www.cuisineaz.com/recettes/gateau-a-la-mandarine-et-aux-amandes-122063.aspx",
+   "site": "CuisineAZ",
+   "blog": false,
+   "note": 4.9,
+   "avis": 17,
+   "minutes": 130,
+   "categorie": "Gâteaux",
+   "saison": [
+    "Clémentine"
+   ]
+  },
+  {
+   "titre": "Pizza blanche au potimarron, coppa et pesto de mâche",
+   "url": "https://www.cuisineaz.com/recettes/pizza-blanche-au-potimarron-coppa-et-pesto-de-mache-111730.aspx",
+   "site": "CuisineAZ",
+   "blog": false,
+   "note": 5.0,
+   "avis": 11,
+   "minutes": 22,
+   "categorie": "Pizzas",
+   "saison": [
+    "Courge",
+    "Mâche"
+   ]
+  },
+  {
+   "titre": "Lasagnes au poulet et aux épinards",
+   "url": "https://www.marmiton.org/recettes/recette_lasagnes-au-poulet-et-aux-epinards_29347.aspx",
+   "site": "Marmiton",
+   "blog": false,
+   "note": 4.8,
+   "avis": 18,
+   "minutes": 60,
+   "categorie": "Plat principal",
+   "saison": [
+    "Épinard"
+   ]
+  },
+  {
+   "titre": "Croque-monsieur au chou-fleur",
+   "url": "https://www.marmiton.org/recettes/recette_croque-monsieur-au-chou-fleur_349691.aspx",
+   "site": "Marmiton",
+   "blog": false,
+   "note": 3.9,
+   "avis": 35,
+   "minutes": 55,
+   "categorie": "Plat principal",
+   "saison": [
+    "Chou-fleur"
+   ]
+  },
+  {
+   "titre": "Cabillaud poêlé au céleri rave et pommes de terre",
+   "url": "https://www.cuisineaz.com/recettes/cabillaud-poele-au-celeri-rave-et-pommes-de-terre-10438.aspx",
+   "site": "CuisineAZ",
+   "blog": false,
+   "note": 4.5,
+   "avis": 20,
+   "minutes": 60,
+   "categorie": "Cabillaud",
+   "saison": [
+    "Céleri-rave"
+   ]
+  },
+  {
+   "titre": "Mille-feuille de potiron et canard confit",
+   "url": "https://www.cuisineaz.com/recettes/mille-feuille-de-potiron-et-canard-confit-85863.aspx",
+   "site": "CuisineAZ",
+   "blog": false,
+   "note": 5.0,
+   "avis": 12,
+   "minutes": 70,
+   "categorie": "Canard",
+   "saison": [
+    "Courge"
+   ]
+  },
+  {
+   "titre": "Potage de chou-fleur au fromage",
+   "url": "https://www.cuisineaz.com/recettes/potage-de-chou-fleur-au-fromage-63296.aspx",
+   "site": "CuisineAZ",
+   "blog": false,
+   "note": 5.0,
+   "avis": 12,
+   "minutes": 30,
+   "categorie": "Soupes",
+   "saison": [
+    "Chou-fleur"
+   ]
+  },
+  {
+   "titre": "Gâteau invisible aux pommes : la recette facile et ultra-fondante",
+   "url": "https://www.hervecuisine.com/recette/gateau-invisible-aux-pommes/",
+   "site": "Hervé Cuisine",
+   "blog": true,
+   "note": 5.0,
+   "avis": 1,
+   "minutes": 70,
+   "categorie": null,
+   "saison": [
+    "Pomme"
+   ]
+  },
+  {
+   "titre": "Cookies au potimarron, avoine et chocolat",
+   "url": "https://www.hervecuisine.com/recette/cookies-au-potimarron-avoine-et-chocolat/",
+   "site": "Hervé Cuisine",
+   "blog": true,
+   "note": 5.0,
+   "avis": 1,
+   "minutes": 30,
+   "categorie": "Desserts, Recettes de cookies",
+   "saison": [
+    "Courge"
+   ]
+  },
+  {
+   "titre": "Tarte topinambours, pommes et chèvre",
+   "url": "https://www.marmiton.org/recettes/recette_tarte-topinambours-pommes-et-chevre_66089.aspx",
+   "site": "Marmiton",
+   "blog": false,
+   "note": 4.2,
+   "avis": 9,
+   "minutes": 60,
+   "categorie": "Plat principal",
+   "saison": [
+    "Pomme",
+    "Topinambour"
+   ]
+  },
+  {
+   "titre": "Gratin de bettes cardes et de pommes de terre a la béchamel",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/3092149-gratin-de-bettes-cardes-et-de-pommes-de-terre-a-la-bechamel",
+   "site": "Journal des Femmes Cuisine",
+   "blog": false,
+   "note": 4.9,
+   "avis": 7,
+   "minutes": 20,
+   "categorie": "Autre gratin de légumes",
+   "saison": [
+    "Blette"
+   ]
+  },
+  {
+   "titre": "Coquelet à la bière et chicons",
+   "url": "https://www.ptitchef.com/recettes/plat/coquelet-a-la-biere-et-chicons-fid-1219017",
+   "site": "Ptitchef",
+   "blog": false,
+   "note": 4.7,
+   "avis": 7,
+   "minutes": 60,
+   "categorie": "Plat",
+   "saison": [
+    "Endive"
+   ]
+  },
+  {
+   "titre": "Bricks au poulet et aux poireaux",
+   "url": "https://www.marmiton.org/recettes/recette_bricks-au-poulet-et-aux-poireaux_37426.aspx",
+   "site": "Marmiton",
+   "blog": false,
+   "note": 4.3,
+   "avis": 7,
+   "minutes": 95,
+   "categorie": "Entrée",
+   "saison": [
+    "Poireau"
+   ]
+  },
+  {
+   "titre": "Verrines mousse de foie gras aux coings confits",
+   "url": "https://www.amourdecuisine.fr/article-verrines-de-mousse-de-foie-gras-aux-coings-confits.html",
+   "site": "Amour de cuisine",
+   "blog": true,
+   "note": null,
+   "avis": null,
+   "minutes": 70,
+   "categorie": null,
+   "saison": [
+    "Coing"
+   ]
+  },
+  {
+   "titre": "Omelette aux cèpes",
+   "url": "https://www.ptitchef.com/recettes/plat/omelette-aux-cepes-fid-1066165",
+   "site": "Ptitchef",
+   "blog": false,
+   "note": 4.5,
+   "avis": 4,
+   "minutes": 27,
+   "categorie": "Plat",
+   "saison": [
+    "Cèpe"
+   ]
+  },
+  {
+   "titre": "Compote poires amandines et pépites de chocolat",
+   "url": "https://www.ptitchef.com/recettes/dessert/compote-poires-amandines-et-pepites-de-chocolat-fid-754435",
+   "site": "Ptitchef",
+   "blog": false,
+   "note": 4.5,
+   "avis": 2,
+   "minutes": 25,
+   "categorie": "Dessert",
+   "saison": [
+    "Poire"
+   ]
+  },
+  {
+   "titre": "Gelée de mandarines à la cannelle",
+   "url": "https://www.ptitchef.com/recettes/autre/gelee-de-mandarines-a-la-cannelle-fid-1181781",
+   "site": "Ptitchef",
+   "blog": false,
+   "note": 4.5,
+   "avis": 2,
+   "minutes": 155,
+   "categorie": "Autre",
+   "saison": [
+    "Clémentine"
+   ]
+  }
+ ]
+}
