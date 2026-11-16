@@ -1,677 +1,664 @@
 {
  "version": 1,
- "date": "2026-11-14",
+ "date": "2026-11-16",
  "mois": 11,
  "recettes": [
   {
-   "titre": "Pâte de coings",
-   "url": "https://cuisine.journaldesfemmes.fr/recette/305270-pate-de-coings",
-   "site": "Journal des Femmes Cuisine",
-   "blog": false,
-   "note": 4.4,
-   "avis": 405,
-   "minutes": 10,
-   "categorie": "Tartinade sucrée originale",
-   "saison": [
-    "Coing"
-   ],
-   "image": "https://img-3.journaldesfemmes.fr/sF66lhvMJPl4ByuhpT0ORM6VtPs=/750x500/68a64cf650044663bace6bb0c9f54bf7/ccmcms-jdf/39808509.jpg",
-   "description": "Découvrez cette recette de pâte de coing. Rapide et facile à préparer, c'est la friandise qu'il faut absolument faire une fois pas an à l'Automne, à la saison des coings.",
-   "ingredients": [
-    "2 kg coing",
-    "1,5 kg sucre",
-    "1 bâton cannelle"
-   ]
-  },
-  {
-   "titre": "Quiche aux épinards et au saumon fumé",
-   "url": "https://cuisine.journaldesfemmes.fr/recette/313589-quiche-aux-epinards-et-au-saumon-fume",
-   "site": "Journal des Femmes Cuisine",
-   "blog": false,
-   "note": 4.5,
-   "avis": 150,
-   "minutes": 15,
-   "categorie": "Quiche au saumon",
-   "saison": [
-    "Épinard"
-   ],
-   "image": "https://img-3.journaldesfemmes.fr/JTRAMokfzvKNPbP39clUTKhyUm4=/750x500/d8fd7543666e43b18c24c8acf323171d/ccmcms-jdf/39906509.jpg",
-   "description": "Une quiche aux épinards et au saumon fumé, c'est ce mariage classique qui marche à tous les coups. Les épinards apportent leur petit côté végétal et fondant, tandis que le saumon fumé donne ce goût délicat et raffiné.",
-   "ingredients": [
-    "1 pâte brisée",
-    "3 oeuf",
-    "10 cl crème fraîche épaisse",
-    "350 g Épinard",
-    "100 g saumon fumé",
-    "100 g fromage râpé",
-    "2 c à s beurre",
-    "sel",
-    "poivre"
-   ]
-  },
-  {
-   "titre": "Crumble aux pommes et aux coings",
-   "url": "https://www.marmiton.org/recettes/recette_crumble-aux-pommes-et-aux-coings_19562.aspx",
+   "titre": "Potée aux navets",
+   "url": "https://www.marmiton.org/recettes/recette_potee-aux-navets_42071.aspx",
    "site": "Marmiton",
    "blog": false,
-   "note": 4.9,
-   "avis": 44,
-   "minutes": 50,
-   "categorie": "Dessert",
-   "saison": [
-    "Coing",
-    "Pomme"
-   ],
-   "image": "https://assets.afcdn.com/recipe/20131009/46469_w1024h576c1cx1728cy2412.webp",
-   "description": null,
-   "ingredients": [
-    "150 g de farine",
-    "500 g de pommes",
-    "500 g de coings",
-    "130 g de beurre",
-    "120 g de cassonade",
-    "sel fin"
-   ]
-  },
-  {
-   "titre": "Velouté de topinambours au miel",
-   "url": "https://www.marmiton.org/recettes/recette_veloute-de-topinambours-au-miel_88592.aspx",
-   "site": "Marmiton",
-   "blog": false,
-   "note": 5.0,
-   "avis": 49,
-   "minutes": 65,
-   "categorie": "Entrée",
-   "saison": [
-    "Topinambour"
-   ],
-   "image": "https://assets.afcdn.com/recipe/20161120/6136_w1024h576c1cx959cy538.webp",
-   "description": null,
-   "ingredients": [
-    "500 g de topinambours",
-    "1 tablettes de bouillon de volaille",
-    "25 cl de crème liquide",
-    "2 cuillères à café de miel",
-    "2 cuillères à soupe d'huile d'olive",
-    "1 pincées de muscade",
-    "poivre",
-    "sel"
-   ]
-  },
-  {
-   "titre": "Velouté de betteraves",
-   "url": "https://cuisine.journaldesfemmes.fr/recette/309543-veloute-de-betteraves",
-   "site": "Journal des Femmes Cuisine",
-   "blog": false,
-   "note": 4.4,
-   "avis": 78,
-   "minutes": 10,
-   "categorie": "Potage et velouté originaux",
-   "saison": [
-    "Betterave"
-   ],
-   "image": "https://img-3.journaldesfemmes.fr/6q1zMreHpLpmey-8DHL0c4mFTag=/750x500/27c41d5b7fd84a1ebf642242a30eee77/ccmcms-jdf/39807320.jpg",
-   "description": "Légume peu utilisé, la betterave rouge contribue à la recharge de l'organisme en potassium et magnésium.",
-   "ingredients": [
-    "4 betterave crue",
-    "1 oignon",
-    "4 tomate ou une petite boîte de tomates en conserve",
-    "1,5 litre bouillon de volaille ou boeuf (2 tablettes)",
-    "1/2 jus d'un citron",
-    "3 c à s crème fraîche",
-    "20 g beurre"
-   ]
-  },
-  {
-   "titre": "rutabagas au lard et pommes de terre",
-   "url": "https://www.marmiton.org/recettes/recette_rutabagas-au-lard-et-pommes-de-terre_33477.aspx",
-   "site": "Marmiton",
-   "blog": false,
-   "note": 4.8,
-   "avis": 28,
+   "note": 4.6,
+   "avis": 103,
    "minutes": 50,
    "categorie": "Plat principal",
    "saison": [
-    "Poireau",
-    "Rutabaga"
-   ],
-   "image": "https://assets.afcdn.com/recipe/20191126/103041_w1024h576c1cx1975cy2366cxt0cyt0cxb5600cyb3739.webp",
-   "description": null,
-   "ingredients": [
-    "900 g de rutabagas",
-    "800 g de pommes de terre",
-    "3 poireaux",
-    "200 g de lard fumé",
-    "cornichons"
-   ]
-  },
-  {
-   "titre": "Saumon mariné et bouillon betterave saumon",
-   "url": "https://www.cuisineaz.com/recettes/saumon-marine-et-bouillon-betterave-saumon-95394.aspx",
-   "site": "CuisineAZ",
-   "blog": false,
-   "note": 5.0,
-   "avis": 11,
-   "minutes": null,
-   "categorie": "Saumon",
-   "saison": [
-    "Betterave",
-    "Céleri",
     "Navet"
    ],
-   "image": "https://img.cuisineaz.com/676x380/2017/01/24/i118779-saumon-marine-et-bouillon-betterave-saumon.jpeg",
-   "description": "Un saumon mariné repose sur un bouillon de betterave où plonge également une seconde betterave crue râpée, pour un accord terre et poisson affirmé. Coriandre et gingembre parfument l'ensemble, les mini navets et la mangue apportant…",
-   "ingredients": [
-    "1 Saumon",
-    "4 Betterave crue",
-    "Beurre",
-    "1 Betterave",
-    "1 botte(s) Coriandre",
-    "1 racine Racine de gingembre",
-    "8 Mini(s) navet(s)",
-    "1 Mangue(s)",
-    "1 Branche(s) de céleri",
-    "1 Échalote(s)",
-    "1 tranche(s) Lardons fumés"
-   ]
-  },
-  {
-   "titre": "Crumble pomme-kiwi à la noix de coco",
-   "url": "https://www.ptitchef.com/recettes/dessert/crumble-pomme-kiwi-a-la-noix-de-coco-fid-1523481",
-   "site": "Ptitchef",
-   "blog": false,
-   "note": 4.1,
-   "avis": 30,
-   "minutes": 40,
-   "categorie": "Dessert",
-   "saison": [
-    "Kiwi",
-    "Pomme"
-   ],
-   "image": "https://www.ptitchef.com/imgupl/recipe/crumble-pomme-kiwi-a-la-noix-de-coco--57953p74596.webp",
-   "description": "Recette Dessert recette de crumble pomme-kiwi à la noix de coco",
-   "ingredients": [
-    "2 kiwis jaunes",
-    "2 pommes",
-    "1/2 citron",
-    "25 g de beurre",
-    "40 g de sucre",
-    "1 pincée de cannelle en poudre",
-    "50g de noix de coco râpée",
-    "50 g d'amandes hachées",
-    "50 g de farine",
-    "50 g de beurre",
-    "50 g de sucre roux"
-   ]
-  },
-  {
-   "titre": "Crème de chou-fleur, coco et saumon fumé",
-   "url": "https://www.ptitchef.com/recettes/entree/creme-de-chou-fleur-coco-et-saumon-fume-fid-1572289",
-   "site": "Ptitchef",
-   "blog": false,
-   "note": 4.5,
-   "avis": 31,
-   "minutes": 45,
-   "categorie": "Entrée",
-   "saison": [
-    "Chou-fleur"
-   ],
-   "image": "https://www.ptitchef.com/imgupl/recipe/creme-de-chou-fleur-coco-et-saumon-fume--457617p713572.webp",
-   "description": "Pour l'entrée, découvrez une nouvelle manière de déguster le chou-fleur ! Ici, on vous le présente en crème associé à du lait de coco et parsemé de saumon fumé.",
-   "ingredients": [
-    "1/2 chou-fleur",
-    "40 cl de lait de coco",
-    "2 tranches de saumon fumé",
-    "Graines de sésame"
-   ]
-  },
-  {
-   "titre": "Chips de kale",
-   "url": "https://www.marmiton.org/recettes/recette_chips-de-kale_227778.aspx",
-   "site": "Marmiton",
-   "blog": false,
-   "note": 4.9,
-   "avis": 23,
-   "minutes": 30,
-   "categorie": "Amuse-gueule",
-   "saison": [
-    "Chou kale"
-   ],
-   "image": "https://assets.afcdn.com/recipe/20160223/2325_w1024h576c1cx250cy375.webp",
+   "image": "https://assets.afcdn.com/recipe/20130627/57582_w1024h576c1cx1250cy1875.webp",
    "description": null,
    "ingredients": [
-    "1 bottes de kale lavée et séchée",
-    "huile d'olive",
-    "sel"
-   ]
-  },
-  {
-   "titre": "Betteraves mimosa",
-   "url": "https://www.ptitchef.com/recettes/entree/betteraves-mimosa-fid-1490054",
-   "site": "Ptitchef",
-   "blog": false,
-   "note": 4.3,
-   "avis": 36,
-   "minutes": 35,
-   "categorie": "Entrée",
-   "saison": [
-    "Betterave"
-   ],
-   "image": "https://www.ptitchef.com/imgupl/recipe/betteraves-mimosa--36690p45051.webp",
-   "description": "Pour changer des traditionnels oeufs mimosa !",
-   "ingredients": [
-    "3 betteraves (3 grosses ou 6 petites cuites)",
-    "3 oeufs",
-    "1 boite de thon",
-    "1 boite de maïs (petite boite)",
-    "1 yaourt nature",
-    "2 cuillères à soupe de ciboulette ciselée",
-    "3 cuillères à soupe d'huile d'olive",
-    "1 cuillère à café bombée de moutarde à l'ancienne",
-    "1/2 jus de citron",
-    "sel",
-    "poivre"
-   ]
-  },
-  {
-   "titre": "Velouté de panais au miel",
-   "url": "https://www.marmiton.org/recettes/recette_veloute-de-panais-au-miel_31443.aspx",
-   "site": "Marmiton",
-   "blog": false,
-   "note": 4.3,
-   "avis": 30,
-   "minutes": 50,
-   "categorie": "Entrée",
-   "saison": [
-    "Panais"
-   ],
-   "image": "https://assets.afcdn.com/recipe/20121101/2001_w1024h576c1cx256cy192.webp",
-   "description": null,
-   "ingredients": [
-    "4 panais",
-    "1 oignons",
-    "1 cuillères à soupe d'huile d'olive",
-    "1 l de bouillon de légumes",
+    "6 pommes de terre",
+    "200 g de lard fumé",
+    "6 navets",
+    "lait",
+    "beurre",
     "poivre",
     "sel",
-    "miel d'acacia (ou sirop d'érable)"
+    "muscade",
+    "fromage râpé ( type emmental)"
    ]
   },
   {
-   "titre": "Potée aux choux de Bruxelles",
-   "url": "https://www.cuisineaz.com/recettes/potee-aux-choux-de-bruxelles-36284.aspx",
+   "titre": "Choux de Bruxelles",
+   "url": "https://www.cuisineaz.com/recettes/choux-de-bruxelles-123300.aspx",
    "site": "CuisineAZ",
    "blog": false,
-   "note": 5.0,
-   "avis": 12,
-   "minutes": 40,
-   "categorie": "Pot Au Feu",
+   "note": 4.8,
+   "avis": 51,
+   "minutes": 25,
+   "categorie": "Légumes",
    "saison": [
-    "Chou de Bruxelles",
-    "Céleri-rave"
+    "Chou de Bruxelles"
    ],
-   "image": "https://img.cuisineaz.com/1023x575/2024/12/08/i202945-potee-aux-choux-de-bruxelles.jpg",
-   "description": "Offrez-vous une parenthèse chaleureuse avec notre savoureuse potée aux choux de Bruxelles, un plat réconfortant qui ravit les papilles. Le mélange savoureux de paleron de boeuf tendre, de légumes croquants et de bouillon parfumé s'allie…",
+   "image": "https://img.cuisineaz.com/1125x632/2016/04/28/i113872-choux-de-bruxelles.jpg",
+   "description": "Les choux de Bruxelles c'est un peu la bête noire des choux, notre pire souvenir de la cantine, un plat souvent accompagné d'un « beurk » ! Quel dommage pourtant, car bien cuisiné et surtout avec des choux de Bruxelles frais et non…",
    "ingredients": [
-    "800 g Paleron de boeuf",
-    "750 g Chou(x) de Bruxelle",
-    "500 g Carotte(s)",
-    "250 g Céleri rave",
-    "10 brin(s) Persil",
-    "1 tablette(s) Bouillon de légumes",
-    "2 pincée(s) Muscade",
+    "1 kg Chou(x) de Bruxelle",
+    "3 gousse(s) Ail",
+    "1 noix Beurre",
+    "1 filet Crème fraîche",
+    "1 c. à soupe Persil ciselé",
     "Sel poivre"
    ]
   },
   {
-   "titre": "Gratin de rutabaga et pommes de terre à l'origan",
-   "url": "https://www.cuisineaz.com/recettes/gratin-de-rutabaga-et-pommes-de-terre-a-l-origan-64239.aspx",
-   "site": "CuisineAZ",
+   "titre": "Soupe d’épinards, brocolis et œuf poché",
+   "url": "https://www.ptitchef.com/recettes/entree/soupe-d-epinards-brocolis-et-oeuf-poche-fid-1544332",
+   "site": "Ptitchef",
    "blog": false,
-   "note": 4.9,
-   "avis": 12,
-   "minutes": 50,
-   "categorie": "Gratin De Pommes De Terre",
+   "note": 4.1,
+   "avis": 58,
+   "minutes": 40,
+   "categorie": "Entrée",
    "saison": [
-    "Poireau",
-    "Rutabaga"
+    "Brocoli",
+    "Épinard"
    ],
-   "image": "https://img.cuisineaz.com/1200x675/2014/02/24/i59320-gratin-de-rutabaga-et-pommes-de-terre-a-l-origan.jpg",
-   "description": null,
+   "image": "https://www.ptitchef.com/imgupl/recipe/soupe-d-epinards-brocolis-et-oeuf-poche--62706p81038.webp",
+   "description": "Une soupe parfaite pour contrer l'hiver.",
    "ingredients": [
-    "200 g Pomme(s) de terre",
-    "300 g Rutabaga",
-    "300 g Poireau(x)",
-    "8 ml Huile d'olive",
-    "7 g Beurre non salé",
-    "110 g Mozzarella",
-    "1 g Origan séché",
+    "1 brocolis (entier)",
+    "200 grammes de feuilles d’épinard",
+    "3 pommes de terre",
+    "5 oeufs (selon la quantité de bols réalisés ; 5 ou 6)",
     "Sel",
     "Poivre"
    ]
   },
   {
-   "titre": "Papillotes de saumon à la fondue de poireaux",
-   "url": "https://www.cuisineaz.com/recettes/papillotes-de-saumon-a-la-fondue-de-poireaux-48894.aspx",
-   "site": "CuisineAZ",
+   "titre": "Gâteau moelleux aux clémentines",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/3105215-gateau-moelleux-aux-clementines",
+   "site": "Journal des Femmes Cuisine",
    "blog": false,
-   "note": 4.8,
-   "avis": 12,
-   "minutes": 30,
-   "categorie": "Saumon",
+   "note": 4.5,
+   "avis": 57,
+   "minutes": 10,
+   "categorie": "Autre gâteau aux fruits",
    "saison": [
-    "Blette",
-    "Poireau"
+    "Clémentine"
    ],
-   "image": "https://img.cuisineaz.com/1200x675/default/default-1200x675.webp",
-   "description": "Très facile, très rapide et délicieux !",
+   "image": "https://img-3.journaldesfemmes.fr/u6Cc_43HMguBMhnMG6LYHOB_Aik=/750x500/31d2cd0183a24e25ad517699a599b0c5/ccmcms-jdf/39932634.jpg",
+   "description": "Savourez ce délicieux gâteau moelleux aux clémentines, un dessert qui séduira les papilles. La recette est très facile à préparer et je vous la recommande.",
    "ingredients": [
-    "4 pavé(s) Saumon",
-    "4 Blanc(s) de poireau(x)",
-    "30 g Beurre",
-    "1 tablette(s) Blette"
+    "8 clémentine",
+    "180 g beurre mou (+ 10 g pour le moule)",
+    "130 g sucre en poudre",
+    "3 oeuf",
+    "160 g farine",
+    "1 Sachet levure chimique",
+    "sucre glace pour la décoration"
    ]
   },
   {
-   "titre": "Flan de chou-fleur au chèvre",
-   "url": "https://www.cuisineaz.com/recettes/flan-de-chou-fleur-au-chevre-126220.aspx",
-   "site": "CuisineAZ",
-   "blog": false,
-   "note": 5.0,
-   "avis": 15,
-   "minutes": 35,
-   "categorie": "Flans Sales",
-   "saison": [
-    "Chou-fleur"
-   ],
-   "image": "https://img.cuisineaz.com/662x372/2016/07/13/i92138-flan-chou-fleur.jpg",
-   "description": "Faites entrer le soleil dans votre cuisine avec ce flan de chou-fleur au chèvre ! Le chou-fleur, souvent star de nos marchés de l’automne au printemps, s’allie ici à la douceur du fromage de chèvre et à un brin de romarin.",
-   "ingredients": [
-    "0.5 Chou-fleur",
-    "3 Œuf(s)",
-    "25 cl Crème fraîche",
-    "1 Fromage de chèvre",
-    "1 bouquet(s) Romarin"
-   ]
-  },
-  {
-   "titre": "Choux de Bruxelles aux lardons et aux champignons",
-   "url": "https://www.marmiton.org/recettes/recette_choux-de-bruxelles-aux-lardons-et-aux-champignons_313249.aspx",
+   "titre": "Soupe au poireau et son oeuf poché",
+   "url": "https://www.marmiton.org/recettes/recette_soupe-au-poireau-et-son-oeuf-poche_66856.aspx",
    "site": "Marmiton",
    "blog": false,
    "note": 4.9,
-   "avis": 13,
+   "avis": 37,
    "minutes": 30,
-   "categorie": "Accompagnement",
+   "categorie": "Plat principal",
    "saison": [
-    "Chou de Bruxelles"
+    "Poireau"
    ],
-   "image": "https://assets.afcdn.com/recipe/20131124/54136_w1024h576c1cx480cy360.webp",
+   "image": "https://assets.afcdn.com/recipe/20100120/20961_w1024h576c1cx256cy192.webp",
    "description": null,
    "ingredients": [
-    "500 g de choux de bruxelles frais",
-    "150 g de lardons",
-    "150 g de champignons de Paris",
-    "1 cuillères à café de vinaigre balsamique",
+    "1 blancs de poireaux",
+    "1 oignons",
+    "2 pommes de terre moyennes",
+    "1 cubes de bouillon de volaille",
+    "20 cl de crème fraîche allégée",
+    "2 oeufs",
+    "persil ou ciboulette",
+    "huile d'olive",
+    "piment d'Espelette",
+    "20 g de beurre",
+    "10 cl de vinaigre blanc"
+   ]
+  },
+  {
+   "titre": "Velouté de cèpes",
+   "url": "https://www.marmiton.org/recettes/recette_veloute-de-cepes_91830.aspx",
+   "site": "Marmiton",
+   "blog": false,
+   "note": 4.9,
+   "avis": 37,
+   "minutes": 45,
+   "categorie": "Entrée",
+   "saison": [
+    "Cèpe"
+   ],
+   "image": "https://assets.afcdn.com/recipe/20140330/49579_w1024h576c1cx2448cy1836.webp",
+   "description": null,
+   "ingredients": [
+    "300 g de cèpes",
+    "2 échalotes",
+    "30 g de beurre",
+    "1 cuillères à soupe de maïzena",
+    "1 cuillères à soupe de madère",
+    "75 cl de bouillon de poule",
+    "2 jaunes d'oeuf battus",
+    "ciboulette"
+   ]
+  },
+  {
+   "titre": "Gâteau à la citrouille : la recette facile",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/171644-gateau-a-la-citrouille",
+   "site": "Journal des Femmes Cuisine",
+   "blog": false,
+   "note": 4.3,
+   "avis": 54,
+   "minutes": 20,
+   "categorie": "Gâteau original",
+   "saison": [
+    "Courge"
+   ],
+   "image": "https://img-3.journaldesfemmes.fr/7GQsO6PTm9TGM1gch3tvVx7JMl8=/750x500/b5905a1605a64f21831b229082938291/ccmcms-jdf/39814846.jpg",
+   "description": "L'automne est la saison idéale pour redécouvrir les saveurs réconfortantes de la citrouille. Ce gâteau moelleux et parfumé ravira vos papilles avec sa texture fondante et ses arômes subtils.",
+   "ingredients": [
+    "300 g citrouille ou potiron",
+    "150 g sucre en poudre",
+    "100 g beurre",
+    "100 g farine",
+    "100 g noix de coco en poudre",
+    "3 oeuf",
+    "1 sachet levure chimique",
+    "1 pincée sel",
+    "zeste d'un citron"
+   ]
+  },
+  {
+   "titre": "Gratin chou-fleur et brocoli au comté",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/337896-gratin-chou-fleur-et-brocoli-au-comte",
+   "site": "Journal des Femmes Cuisine",
+   "blog": false,
+   "note": 4.7,
+   "avis": 26,
+   "minutes": 10,
+   "categorie": "Gratin de chou-fleur",
+   "saison": [
+    "Brocoli",
+    "Chou-fleur"
+   ],
+   "image": "https://img-3.journaldesfemmes.fr/SHlIQVsFkH5vAI43C4VG7udL17Q=/750x500/debaa4ec9a5a4848977093210e83219c/ccmcms-jdf/39902891.jpg",
+   "description": "Un gratin simplissime, idéal pour nos papilles. Cette délicieuse recette marie harmonieusement deux légumes de la famille des crucifères : le chou-fleur et le brocoli.",
+   "ingredients": [
+    "1 chou-fleur",
+    "1 brocoli",
+    "50 g beurre",
+    "50 g farine",
+    "50 cl lait",
+    "1 pincée noix de muscade",
+    "150 g comté râpé",
     "sel",
     "poivre"
    ]
   },
   {
-   "titre": "Paupiette de chou à la chair à saucisse",
-   "url": "https://www.cuisineaz.com/recettes/paupiette-de-chou-a-la-chair-a-saucisse-86511.aspx",
+   "titre": "Soupe au potimarron facile",
+   "url": "https://www.cuisineaz.com/recettes/soupe-potimarron-facile-73776.aspx",
    "site": "CuisineAZ",
    "blog": false,
-   "note": 4.9,
-   "avis": 13,
-   "minutes": 70,
-   "categorie": "Plats",
+   "note": 5.0,
+   "avis": 25,
+   "minutes": 35,
+   "categorie": "Soupes aux légumes",
    "saison": [
-    "Chou"
+    "Courge"
    ],
-   "image": "https://img.cuisineaz.com/1200x675/2016/04/12/i106369-paupiette-de-chou-a-la-chair-a-saucisse.jpg",
-   "description": null,
+   "image": "https://img.cuisineaz.com/1000x562/2021/09/21/i180674-soupe-potimarron-facile.jpeg",
+   "description": "La soupe au potimarron facile, c’est un grand bol de douceur pour un tendre instant de réconfort ! Prête en un rien de temps, cette recette de saison met de la chaleur dans nos soirées d’automne.",
    "ingredients": [
-    "6 feuilles Chou vert",
-    "400 g Chair à saucisse(s)",
-    "1 verre(s) Riz blanc",
+    "1 Potimarron",
     "1 Oignon(s)",
-    "1 Œuf(s)",
-    "10 brin(s) Persil frais",
-    "1 cube(s) Bouillon de volaille",
-    "1 pincée(s) Cumin en poudre",
-    "Huile d'olive",
+    "0.5 bouquet(s) Romarin",
+    "0.5 bouquet(s) Sarriette",
+    "90 cl Bouillon de volaille",
+    "2 c. à soupe Huile d'olive",
+    "20 g Graine(s) de courge",
+    "10 brin(s) Persil",
+    "1 poignée(s) Croûton(s)"
+   ]
+  },
+  {
+   "titre": "Velouté de céleri au curry",
+   "url": "https://www.cuisineaz.com/recettes/veloute-de-celeri-au-curry-81242.aspx",
+   "site": "CuisineAZ",
+   "blog": false,
+   "note": 5.0,
+   "avis": 12,
+   "minutes": 30,
+   "categorie": "Veloutés",
+   "saison": [
+    "Céleri",
+    "Céleri-rave"
+   ],
+   "image": "https://img.cuisineaz.com/1200x675/2023/06/08/i194426-veloute-de-celeri-au-curry.jpg",
+   "description": "Un velouté de céleri-rave, avec une branche de céleri pour renforcer le goût, cuit dans du bouillon de volaille puis mixé avec de la crème fraîche liquide et une cuillère à café de curry. Le curry réchauffe la douceur un peu terreuse du…",
+   "ingredients": [
+    "500 g Céleri rave",
+    "1 Branche(s) de céleri",
+    "75 cl Bouillon de volaille",
+    "20 cl Crème fraîche liquide",
+    "1 c. à café Curry en poudre",
+    "Sel",
+    "Poivre"
+   ]
+  },
+  {
+   "titre": "Paupiettes de veau aux topinambours, boule d'or et champignons cuisinés",
+   "url": "https://www.cuisineaz.com/recettes/paupiettes-de-veau-aux-topinambours-boule-d-or-et-champignons-cuisines-95916.aspx",
+   "site": "CuisineAZ",
+   "blog": false,
+   "note": 5.0,
+   "avis": 12,
+   "minutes": 20,
+   "categorie": "Veau",
+   "saison": [
+    "Navet",
+    "Topinambour"
+   ],
+   "image": "https://img.cuisineaz.com/1200x675/2017/02/08/i120989-.jpeg",
+   "description": "A la maison on aime les paupiettes et je m'amuse à les cuisiner de différentes façons.. même mon chéri qui n'aime pas les légumes a apprécié ce plat :-) Vous pouvez retrouver toutes mes recettes sur mon blog…",
+   "ingredients": [
+    "2 Paupiette de veau",
+    "4 Topinambour",
+    "1 boule Navet(s)",
+    "300 g Champignon(s)",
+    "6 Cerises confites",
+    "1 Échalote(s)",
+    "1 Tomate confite(s)",
+    "100 c Vin blanc sec",
+    "1 cube(s) Bouillon de légumes",
+    "l Sel poivre"
+   ]
+  },
+  {
+   "titre": "Verrines au kiwi, mascarpone et son crumble",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/348402-verrines-au-kiwi-mascarpone-et-son-crumble",
+   "site": "Journal des Femmes Cuisine",
+   "blog": false,
+   "note": 4.9,
+   "avis": 17,
+   "minutes": 40,
+   "categorie": "Verrine dessert aux fruits",
+   "saison": [
+    "Kiwi"
+   ],
+   "image": "https://img-3.journaldesfemmes.fr/vVnojkIHnWerBBER9hTic3F_zcY=/750x500/bf5bdf92a261421ca9b813831501c34b/ccmcms-jdf/39894403.jpg",
+   "description": "Voici une autre version du tiramisu que j'ai accommodé à ma manière avec les kiwis du jardin familial. Les arbres ont été tellement fournis cette année que j'en ai encore plein mon frigo, où ils se conservent très longtemps.",
+   "ingredients": [
+    "250 g mascarpone",
+    "2 jaune d'œuf",
+    "2 blanc d'oeuf",
+    "1 pincée sel",
+    "70 g cassonade (à défaut sucre blanc)",
+    "1 sachet sucre vanillé",
+    "6 kiwi (en garder 3 pour la présentation)",
+    "20 g sucre",
+    "jus d'un demi-citron",
+    "3 feuille gélatine (facultatif)",
+    "85 g beurre",
+    "75 g cassonade",
+    "100 g farine"
+   ]
+  },
+  {
+   "titre": "Lasagnes effrayantes aux blettes et citrouille",
+   "url": "https://www.cuisineaz.com/recettes/lasagnes-effrayantes-aux-blettes-et-citrouille-116741.aspx",
+   "site": "CuisineAZ",
+   "blog": false,
+   "note": 5.0,
+   "avis": 11,
+   "minutes": 50,
+   "categorie": "Lasagnes",
+   "saison": [
+    "Blette",
+    "Courge"
+   ],
+   "image": "https://img.cuisineaz.com/1000x562/2023/10/17/i196214-lasagnes-blettes-citrouille.jpg",
+   "description": "Les feuilles tombent et vous êtes à la recherche d'un plat adapté à la saison ? Pourquoi ne pas profiter d'Halloween pour réaliser une recette...",
+   "ingredients": [
+    "500 g Citrouille",
+    "120 g Ricotta",
+    "100 g Lait",
+    "Noix de muscade râpée",
+    "Sel",
+    "200 g Feuille(s) de Blette",
+    "120 g Ricotta",
+    "200 g Emmental râpé",
+    "2 Gousse(s) d'ail",
+    "Pâtes à lasagne(s)",
     "Sel poivre"
    ]
   },
   {
-   "titre": "Potage au céleri rave",
-   "url": "https://www.marmiton.org/recettes/recette_potage-au-celeri-rave_220600.aspx",
+   "titre": "Tarte rutabaga, chèvre et miel",
+   "url": "https://www.marmiton.org/recettes/recette_tarte-rutabaga-chevre-et-miel_223424.aspx",
    "site": "Marmiton",
    "blog": false,
    "note": 4.6,
-   "avis": 15,
-   "minutes": 22,
-   "categorie": "Entrée",
+   "avis": 20,
+   "minutes": 50,
+   "categorie": "Plat principal",
    "saison": [
-    "Céleri-rave"
+    "Rutabaga"
    ],
-   "image": "https://assets.afcdn.com/recipe/20111227/61875_w1024h576c1cx256cy192.webp",
+   "image": "https://assets.afcdn.com/recipe/20160313/28192_w1024h576c1.webp",
    "description": null,
    "ingredients": [
-    "1 céleri rave",
-    "2 carottes",
-    "3 pommes -de-terre",
-    "1 oignons",
-    "1 cubes de bouillon de poule",
-    "huile d'olive",
-    "eau",
-    "sel",
-    "poivre",
-    "curry",
-    "persil",
-    "crème fraîche"
+    "1 pâtes feuilletées ou brisée",
+    "3 rutabagas (selon la grosseur)",
+    "120 g de bûches de chèvre",
+    "10 g de beurre",
+    "1 cuillères à café de miel",
+    "2 cuillères à café de cumin en grains"
    ]
   },
   {
-   "titre": "Quiche au chou-fleur",
-   "url": "https://cuisine.journaldesfemmes.fr/recette/361006-quiche-au-chou-fleur",
+   "titre": "Crème de topinambour",
+   "url": "https://www.marmiton.org/recettes/recette_creme-de-topinambour_42581.aspx",
+   "site": "Marmiton",
+   "blog": false,
+   "note": 4.5,
+   "avis": 21,
+   "minutes": 70,
+   "categorie": "Accompagnement",
+   "saison": [
+    "Topinambour"
+   ],
+   "image": "https://assets.afcdn.com/recipe/20100120/52664_w1024h576c1cx256cy192.webp",
+   "description": null,
+   "ingredients": [
+    "400 g de topinambours",
+    "2 pommes de terre moyennes (facultatif)",
+    "40 cl de lait",
+    "15 cl de crème liquide",
+    "cerneau de noix (facultatif)"
+   ]
+  },
+  {
+   "titre": "Nems au Poiret de Meuse, Salade de Mâche aux Poires et à l'huile de noisette",
+   "url": "https://www.cuisineaz.com/recettes/nems-au-poiret-de-meuse-salade-de-mache-aux-poires-et-a-l-huile-de-noisette-35237.aspx",
+   "site": "CuisineAZ",
+   "blog": false,
+   "note": 4.9,
+   "avis": 11,
+   "minutes": 25,
+   "categorie": "Nems",
+   "saison": [
+    "Mâche",
+    "Poire"
+   ],
+   "image": "https://img.cuisineaz.com/1200x675/default/default-1200x675.webp",
+   "description": "Poiret de meuse : spécialité des fromagers affineurs, moelleux et gras, aromatisé à l'alcool de poire et recouvert de noisettes concassées",
+   "ingredients": [
+    "0.5 bûche Bûche de chèvre",
+    "3 Feuille(s) de brick",
+    "160 g Mâche",
+    "1 Un peu Poire(s)",
+    "Or",
+    "Beurre fondu"
+   ]
+  },
+  {
+   "titre": "Beignet de chou-fleur",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/3123390-beignet-de-chou-fleur",
    "site": "Journal des Femmes Cuisine",
    "blog": false,
-   "note": 4.6,
-   "avis": 15,
-   "minutes": 10,
-   "categorie": "Quiche au jambon",
+   "note": 3.9,
+   "avis": 33,
+   "minutes": 60,
+   "categorie": "Autre entrée chaude",
    "saison": [
     "Chou-fleur"
    ],
-   "image": "https://img-3.journaldesfemmes.fr/s3IaIaONQMV_NwlNlrAgY1RjnfU=/750x500/1d076cf42f474d409d1cb1c85682d2bd/ccmcms-jdf/39871107.jpg",
-   "description": "Ce dimanche soir, pas forcément envie de se mettre en cuisine pour de la haute gastronomie. Mais, comme il me restait quelques bouquets de chou-fleur poêlés de la veille, j'ai trouvé un petit plat sympa et facile à faire : une bonne…",
+   "image": "https://img-3.journaldesfemmes.fr/iSsV4YH_LkUlyJl2VFxjpiI4ey0=/750x500/961b0859c3dc47fdb49deab6ab7a8b67/ccmcms-jdf/39709092.jpg",
+   "description": "Ceci est une belle façon de cuisiner le chou-fleur, un légume que beaucoup n'aiment pas et surtout les enfants. Des beignets comme entrée, pas très légers ni diététique j'avoue mais de temps en temps,on peut se permettre le bain de…",
    "ingredients": [
-    "1 pâte feuilletée",
-    "100 g chou-fleur",
-    "3 oeuf",
-    "20 cl crème fraîche",
-    "fromage râpé",
-    "100 g lardon",
-    "2 c à s moutarde",
-    "sel",
-    "poivre"
+    "1 bouquet chou-fleur",
+    "1 petit oignon",
+    "1 gousse ail",
+    "2 oeuf",
+    "1 poignée persil",
+    "1 c à s ciboulette séchée",
+    "1 c à c levure chimique",
+    "2 c à s farine",
+    "1 c à c paprika",
+    "1 c à c poudre d'ail"
    ]
   },
   {
-   "titre": "Cake brocoli et jambon cru",
-   "url": "https://cuisine.journaldesfemmes.fr/recette/320585-cake-brocoli-et-jambon-cru",
-   "site": "Journal des Femmes Cuisine",
+   "titre": "Poêlée de céléri rave, carotte et courge butternut au wok",
+   "url": "https://www.marmiton.org/recettes/recette_poelee-de-celeri-rave-carotte-et-courge_310708.aspx",
+   "site": "Marmiton",
    "blog": false,
-   "note": 4.3,
-   "avis": 17,
-   "minutes": 20,
-   "categorie": "Cake au jambon",
+   "note": 4.6,
+   "avis": 11,
+   "minutes": 60,
+   "categorie": "Plat principal",
    "saison": [
-    "Brocoli"
-   ],
-   "image": "https://img-3.journaldesfemmes.fr/QICmDeURImQCTPBIXqoEVk9e8qA=/750x500/1afc4591f99640ebbdca9c059f4e87a8/ccmcms-jdf/39901009.jpg",
-   "description": "Un cake équilibré qui, accompagné d'une salade verte, peut faire office de repas. Envie d'un plat savoureux et équilibré ?",
-   "ingredients": [
-    "200 g farine",
-    "3 oeuf",
-    "1 sachet levure",
-    "70 g gruyère râpé",
-    "15 cl crème liquide allégée (3% de matières grasses)",
-    "10 cl huile d'olive",
-    "200 g brocoli",
-    "150 g lamelle de jambon cru",
-    "sel",
-    "poivre"
-   ]
-  },
-  {
-   "titre": "Crumble de céleri-rave au chèvre",
-   "url": "https://cuisine.journaldesfemmes.fr/recette/319078-crumble-de-celeri-rave-au-chevre",
-   "site": "Journal des Femmes Cuisine",
-   "blog": false,
-   "note": 4.5,
-   "avis": 14,
-   "minutes": 20,
-   "categorie": "Crumble de légumes",
-   "saison": [
+    "Courge",
     "Céleri-rave"
    ],
-   "image": "https://img-3.journaldesfemmes.fr/wM6nX0ISq3Gv9BrNJahw9uyuQAo=/750x500/1d96847ecd474272ab98bd646b7806de/ccmcms-jdf/39914065.jpg",
-   "description": "Je vous propose une bonne recette de crumble de céleri-rave au chèvre, un plat familial à déguster au dîner. Cette recette originale et réconfortante marie les saveurs douces du céleri-rave aux notes prononcées du fromage de chèvre.",
+   "image": "https://assets.afcdn.com/recipe/20190302/88619_w1024h576c1cx768cy1024cxt0cyt0cxb1536cyb2048.webp",
+   "description": null,
    "ingredients": [
-    "250 g céleri-rave",
-    "jus d'un citron",
-    "20 cl crème liquide",
-    "1/2 bûche fromage de chèvre",
-    "sel",
-    "poivre",
-    "1 oignon",
-    "1 c à c huile",
-    "80 g farine",
-    "80 g flocons d'avoine",
-    "80 g beurre"
+    "2 échalotes",
+    "2 gousses d'ail",
+    "3 carottes",
+    "0.5 céleri rave",
+    "1 courge Butternut",
+    "4 oignons",
+    "1 cubes de bouillon de légumes",
+    "20 cl d'eau (soit 1 verre)",
+    "2 cuillères à soupe d'huile d'olive",
+    "1 citrons (pour le jus)",
+    "1 bouquets de coriandre fraîche",
+    "de curry ou curcuma en poudre",
+    "poivre noir"
    ]
   },
   {
-   "titre": "Tarte tatin de coings",
-   "url": "https://www.ptitchef.com/recettes/dessert/tarte-tatin-de-coings-fid-1170194",
-   "site": "Ptitchef",
-   "blog": false,
-   "note": 4.5,
-   "avis": 12,
-   "minutes": 50,
-   "categorie": "Dessert",
-   "saison": [
-    "Coing"
-   ],
-   "image": "https://www.ptitchef.com/imgupl/recipe/tarte-tatin-de-coings--441442p682785.webp",
-   "description": "Recette Dessert recette de tarte tatin aux coings et épices",
-   "ingredients": [
-    "Une pâte brisée",
-    "1 kg de coings",
-    "200 g de sucre",
-    "3 cuillères à soupe de beurre"
-   ]
-  },
-  {
-   "titre": "Velouté d'endives et chou-fleur au lait de coco",
-   "url": "https://www.ptitchef.com/recettes/entree/veloute-d-endives-et-choux-fleur-au-lait-coco-fid-1426217",
-   "site": "Ptitchef",
-   "blog": false,
-   "note": 3.8,
-   "avis": 11,
-   "minutes": 25,
-   "categorie": "Entrée",
-   "saison": [
-    "Chou-fleur",
-    "Endive"
-   ],
-   "image": "https://www.ptitchef.com/imgupl/recipe/veloute-d-endives-et-chou-fleur-au-lait-de-coco--28997p35924.webp",
-   "description": "Recette Entrée recette de velouté d'endives et chou-fleur au lait coco",
-   "ingredients": [
-    "2 endives moyennes",
-    "1/2 chou fleur",
-    "1/2 boite de lait coco",
-    "sel",
-    "poivre"
-   ]
-  },
-  {
-   "titre": "Endives à la forestière, sauce moutardée",
-   "url": "https://www.marmiton.org/recettes/recette_endives-a-la-forestiere-sauce-moutardee_25095.aspx",
+   "titre": "Purée céleri rave et pommes",
+   "url": "https://www.marmiton.org/recettes/recette_puree-celeri-rave-et-pommes_168962.aspx",
    "site": "Marmiton",
    "blog": false,
    "note": 4.8,
-   "avis": 6,
-   "minutes": 80,
-   "categorie": "Plat principal",
+   "avis": 9,
+   "minutes": 20,
+   "categorie": "Accompagnement",
    "saison": [
-    "Endive",
-    "Poireau"
+    "Céleri-rave",
+    "Pomme"
    ],
-   "image": "https://assets.afcdn.com/recipe/20160202/57683_w1024h576c1cx320cy240.webp",
+   "image": "https://assets.afcdn.com/recipe/20140922/16857_w1024h576c1cx1632cy1224.webp",
    "description": null,
    "ingredients": [
-    "8 endives",
-    "4 poireaux",
-    "250 g de champignons de couche",
-    "4 cuillères à soupe d'huile d'olive",
-    "30 cl de crème fraîche épaisse",
-    "2 cuillères à soupe de moutarde à l'ancienne",
+    "1 céleri RAVE",
+    "2 pommes GOLDEN",
+    "ciboulette",
+    "1 briques DE CREME LIQUIDE",
     "poivre",
     "sel"
    ]
   },
   {
-   "titre": "Quiche aux bettes, roquefort et raisins secs",
-   "url": "https://www.ptitchef.com/recettes/entree/quiche-aux-bettes-roquefort-et-raisins-secs-fid-1046875",
-   "site": "Ptitchef",
+   "titre": "Endives braisées et dos de cabillaud crémé",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/350949-dos-de-cabillaud-creme-aux-endives-braisees",
+   "site": "Journal des Femmes Cuisine",
    "blog": false,
-   "note": 4.3,
-   "avis": 8,
-   "minutes": 65,
-   "categorie": "Entrée",
+   "note": 4.6,
+   "avis": 14,
+   "minutes": 15,
+   "categorie": "Dos de cabillaud",
    "saison": [
-    "Blette"
+    "Endive"
    ],
-   "image": "https://www.ptitchef.com/imgupl/recipe/quiche-aux-bettes-roquefort-et-raisins-secs--17209p21509.webp",
-   "description": "Recette Entrée recette de quiche aux bettes, roquefort et raisins secs",
+   "image": "https://img-3.journaldesfemmes.fr/UQhko4U4cvsuDbqwATpGY5n98Qc=/750x500/63169b5750dd4aed85ccf3c1143ec1c5/ccmcms-jdf/39870241.jpg",
+   "description": "Découvrez la recette d'Endives braisées et dos de cabillaud crémé, une alliance étonnante entre le cabillaud, l'endive et la noix de coco. Laissez-vous tenter par cette délicieuse préparation alliant douceur des endives à fraîcheur du…",
    "ingredients": [
-    "1 pâte brisée (réalisée ici avec de la farine dépeautre complète)",
-    "1 petite botte de bettes (10 pieds)",
-    "150 g de roquefort",
-    "1 grosse poignée de raisins secs",
-    "1 uf",
-    "2 cs bombées de crème épaisse",
-    "1 poignée de pignons de pin"
+    "2 pavés cabillaud",
+    "5 endive",
+    "2 gousse ail",
+    "1 echalote",
+    "10 cl lait de coco",
+    "1 c à s sucre",
+    "1 pincée epices gingembre/agrumes",
+    "1 pincée curry",
+    "poivre",
+    "sel",
+    "huile d'olive"
    ]
   },
   {
-   "titre": "Gratin de pâtes à la raclette et aux légumes : facile et anti-gaspi",
-   "url": "https://www.hervecuisine.com/recette/recette-gratin-pates-raclette-legumes/",
-   "site": "Hervé Cuisine",
-   "blog": true,
-   "note": null,
-   "avis": null,
-   "minutes": 50,
-   "categorie": "Plats, Recette anti gaspi",
+   "titre": "Crêpes à la farine de châtaigne",
+   "url": "https://www.marmiton.org/recettes/recette_crepes-a-la-farine-de-chataigne_20707.aspx",
+   "site": "Marmiton",
+   "blog": false,
+   "note": 4.3,
+   "avis": 15,
+   "minutes": 15,
+   "categorie": "Dessert",
    "saison": [
-    "Brocoli"
+    "Châtaigne"
    ],
-   "image": "https://www.hervecuisine.com/wp-content/uploads/2026/11/gratin-de-pates-raclette.jpg",
-   "description": "Un reste de pâtes, quelques légumes et du fromage à raclette dans le réfrigérateur ? Voilà de quoi préparer un gratin de pâtes à la raclette et aux légumes, facile et généreux !",
+   "image": "https://assets.afcdn.com/recipe/20210113/117197_w1024h576c1cx998cy751cxt0cyt0cxb1996cyb1502.webp",
+   "description": null,
    "ingredients": [
-    "500 à 600 g de pâtes déjà cuites, des macaronis par exemple",
-    "300 à 500 g de légumes au choix : brocoli, carottes, champignons, courge…",
-    "Une dizaine de tranches de fromage à raclette",
-    "Facultatif : du poulet déjà cuit, des dés de jambon ou un reste de charcuterie",
-    "50 g de beurre",
-    "50 g de farine",
-    "500 ml de lait",
-    "De la noix de muscade râpée",
-    "Du sel et du poivre"
+    "250 g de farine de châtaigne",
+    "100 g de farine de blé",
+    "4 oeufs",
+    "50 cl de lait",
+    "1 cuillères d'huile",
+    "sel"
+   ]
+  },
+  {
+   "titre": "Mille-feuilles de betterave à la ricotta et aux herbes",
+   "url": "https://www.ptitchef.com/recettes/entree/mille-feuilles-de-betterave-a-la-ricotta-et-aux-herbes-fid-1565577",
+   "site": "Ptitchef",
+   "blog": false,
+   "note": 4.4,
+   "avis": 13,
+   "minutes": 10,
+   "categorie": "Entrée",
+   "saison": [
+    "Betterave"
+   ],
+   "image": "https://www.ptitchef.com/imgupl/recipe/mille-feuilles-de-betterave-a-la-ricotta-et-aux-herbes--450447p696457.webp",
+   "description": "Les betteraves nouvelles nous donnent envie de refaire plein de recettes ! Celle d'aujourd'hui est printanière.",
+   "ingredients": [
+    "4 petites betteraves rouges cuites",
+    "250 g de ricotta",
+    "un demi bouquet de ciboulette",
+    "2 cs d' huile de noix",
+    "2 cs de vinaigre balsamique blanc"
+   ]
+  },
+  {
+   "titre": "Fondue de poireaux au beurre",
+   "url": "https://www.ptitchef.com/recettes/plat/fondue-de-poireaux-au-beurre-fid-1574627",
+   "site": "Ptitchef",
+   "blog": false,
+   "note": 4.7,
+   "avis": 6,
+   "minutes": 40,
+   "categorie": "Plat",
+   "saison": [
+    "Poireau"
+   ],
+   "image": "https://www.ptitchef.com/imgupl/recipe/fondue-de-poireaux-au-beurre--460348p723304.webp",
+   "description": "Le poireau est l’un des légumes les plus célèbres, alors lancez-vous dans sa préparation.",
+   "ingredients": [
+    "3 ou 4 poireaux",
+    "100 gr de beurre doux",
+    "sel fin",
+    "poivre du moulin",
+    "1 verre d'eau"
+   ]
+  },
+  {
+   "titre": "Rutabagas aux carottes et à la crème",
+   "url": "https://www.ptitchef.com/recettes/plat/rutabagas-aux-carottes-et-a-la-creme-fid-1260592",
+   "site": "Ptitchef",
+   "blog": false,
+   "note": 4.7,
+   "avis": 3,
+   "minutes": 20,
+   "categorie": "Plat",
+   "saison": [
+    "Rutabaga"
+   ],
+   "image": "https://www.ptitchef.com/imgupl/recipe/rutabagas-aux-carottes-et-a-la-creme--442187p683799.webp",
+   "description": "Recette Plat recette de rutabagas aux carottes et à la crème",
+   "ingredients": [
+    "2 oignons",
+    "600 g de rutabagas",
+    "600 g de carottes",
+    "2 cuillères à soupe de fond de veau deshydraté",
+    "1 cuillère à café de quatre épices",
+    "400 ml de crème fraîche",
+    "150 g de pistaches non salées",
+    "de l’huile d’olive"
+   ]
+  },
+  {
+   "titre": "Panna cotta vanillée, compotée de kiwis",
+   "url": "https://www.ptitchef.com/recettes/dessert/panna-cotta-vanillee-compotee-de-kiwis-fid-1321983",
+   "site": "Ptitchef",
+   "blog": false,
+   "note": 4.0,
+   "avis": 2,
+   "minutes": 25,
+   "categorie": "Dessert",
+   "saison": [
+    "Kiwi"
+   ],
+   "image": "https://www.ptitchef.com/imgupl/recipe/panna-cotta-vanillee-compotee-de-kiwis--429902p667350.webp",
+   "description": "Recette Dessert recette de panna cotta vanillée et compotée de kiwis",
+   "ingredients": [
+    "20 cl de crème liquide",
+    "40 cl de lait entier",
+    "60 g de sucre vanillé maison",
+    "3 g d'agar-agar",
+    "2 gros kiwis",
+    "2 cuillères à soupe de sucre vanillé maison"
+   ]
+  },
+  {
+   "titre": "Tatin de blettes oseille feta",
+   "url": "https://www.ptitchef.com/recettes/plat/tatin-de-blettes-oseille-feta-fid-1424883",
+   "site": "Ptitchef",
+   "blog": false,
+   "note": 4.0,
+   "avis": 1,
+   "minutes": 45,
+   "categorie": "Plat",
+   "saison": [
+    "Blette"
+   ],
+   "image": "https://www.ptitchef.com/imgupl/recipe/tatin-de-blettes-oseille-feta--27642p34185.webp",
+   "description": "Recette Plat recette de tatin de blettes, oseille et feta",
+   "ingredients": [
+    "450 g de verts de blettes",
+    "4 feuilles d'oseille",
+    "150 g de féta brebis",
+    "1 rouleau de pâte brisée (feuilletée pour moi)",
+    "2 oeufs",
+    "2 cs d'huile d'olive"
    ]
   }
  ]
